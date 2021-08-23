@@ -7,6 +7,8 @@ import spacy
 import re
 import random
 import json
+from spacy.cli import download
+download('en_core_web_sm')
 import en_core_web_sm
 from transformers import (
     AutoTokenizer,
