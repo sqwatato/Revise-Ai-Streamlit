@@ -28,5 +28,3 @@ We learned new technologies like NLP and Streamlit and many more. This entire ha
 ## What's next for Revise
 We need to implement a recording feature so you can record your meetings/classes and upload them directly to our AI. We also wanted to make our AI models and our entire website more efficient and faster as well as more accurate with answers in the future.
 
-## btw one of our team members oumaima#5070 wasn't able to join the devpost project.
-discord tag oumaima#5070
