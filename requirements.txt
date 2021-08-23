@@ -1,12 +1,10 @@
 streamlit
-os
 speechrecognition
 pydub
 scipy
 nltk
-json
 transformers
 sentencepiece
 spacy
 numpy
-webbrowser
+multiapp
