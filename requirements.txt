@@ -8,3 +8,4 @@ sentencepiece
 spacy
 numpy
 multiapp
+torch
