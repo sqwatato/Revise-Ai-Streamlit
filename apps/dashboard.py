@@ -15,7 +15,7 @@ import numpy as np
 import webbrowser
 
 from spacy.cli import download
-    download('en_core_web_sm')
+download('en_core_web_sm')
 
 def app():
     st.title(" Revise Dashboard ")
