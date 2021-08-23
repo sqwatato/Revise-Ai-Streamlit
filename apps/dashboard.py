@@ -13,7 +13,7 @@ import json
 from question_generator.questiongenerator import QuestionGenerator
 import numpy as np
 import webbrowser
-
+spacy.load('en_core_web_sm')
 def app():
     st.title(" Revise Dashboard ")
     st.write(" This is the Revise dashboard made with Streamlit. Click the Drag and Drop featurn to select your audio file for your online class. The file must be a .wav file.")
